@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Afterjot</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 09 Sep 2026 14:38:01 +1200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Afterjot 0.1.0 (4)</p>
+<ul>
+<li>Fix the updater startup error by enabling verification before update extraction.</li>
+<li>Keep Settings, workspace, capture, and update commands available when the capture panel has focus.</li>
+<li>Remove Todoist import from the app menus and interface. Workspace seeding is a one-time setup operation.</li>
+</ul>
+<p>Install this build manually if you are using build 2 or 3. Existing workspace data and device pairing are preserved.</p>
+]]></description>
+            <enclosure url="https://pure-flame-sy2j.here.now/Afterjot-0.1.0-4.zip" length="5413191" type="application/octet-stream" sparkle:edSignature="b1RX7ZpiU/WjjS6sN6bAH5qyWAL+3QkuayiI4ne+lvS9ZUrdAm+cI0xg2vW5rr+xfSuWZNOggDF/4HF0PChiBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://pure-flame-sy2j.here.now/Afterjot4-3.delta" sparkle:deltaFrom="3" length="563438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rJR6YXcVpnd5ql9E8HJ35nvldc+JLyqO3cUh2lP3PrccZ+e5a4DhmTnHyiVprlwTtA2ndQbfQibk5ipTDTWOBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 09 Sep 2026 13:48:33 +1200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Afterjot 0.1.0 (3)</p>
+<ul>
+<li>Open Afterjot from the Dock, use the app menus, and right-click or Control-click its menu-bar icon for workspace, capture, import, settings, and updates.</li>
+<li>Preview and import a Todoist JSON snapshot. Projects, sections, tasks, work dates, and deadlines map into Afterjot. Unsupported fields remain visible as reference data. Repeat imports preserve your Afterjot edits.</li>
+<li>Check for signed updates with Sparkle. Automatic checks are optional and can be changed in Settings.</li>
+</ul>
+<p>Mac–iPhone sync requires a configured private relay and device pairing. This update does not initialize a server or import data automatically.</p>
+]]></description>
+            <enclosure url="https://pure-flame-sy2j.here.now/Afterjot-0.1.0-3.zip" length="5444243" type="application/octet-stream" sparkle:edSignature="qcTdULzo99ja+R3LbzOr2OluoGhk+0W6QvEIJulLMgr5gJ80T0K9+c18keGo9GYYySpOR5suoEG0HXqHLjPfAQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: P9WxX2u1KoOJJOVDuUgzSXGTasj4VYTwk/pKl6IZVQrxP2fq1T1c0BR9zTL1C1M5sGvrt5qOjoPC4HwCkZAVCQ==
+length: 3271
+-->

@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Afterjot</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 10 Sep 2026 00:13:33 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="/iQEDL9bDn9kv0dolRAwxhI3kndayAo6zIRsc8T42CMz9dS8y/MLp1QYfAXDWc3/6cYni+cCYQm7kUISgKAICA==" sparkle:length="1160">https://github.com/alecramos-sudo/afterjot-releases/releases/download/v0.1.0-5/Afterjot-0.1.0-5.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/alecramos-sudo/afterjot-releases/releases/download/v0.1.0-5/Afterjot-0.1.0-5.zip" length="5531272" type="application/octet-stream" sparkle:edSignature="Pi6AfgwT3JjUKM97MxkTNTTFkgUT2biOrHMFqzdm0AN/+muuhRhTI0hXo/rMAeWrR2URlJx+CjTu0yiylxefCQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 09 Sep 2026 14:38:01 +1200</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -43,6 +52,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: P9WxX2u1KoOJJOVDuUgzSXGTasj4VYTwk/pKl6IZVQrxP2fq1T1c0BR9zTL1C1M5sGvrt5qOjoPC4HwCkZAVCQ==
-length: 3271
+edSignature: Urfmm0efreHfxcL9i9h0giFIWyhtWc4Qp7CWO+ImrLmUke+BqzW2gf3h++xOtXNJSCRbVkq05+WN9WajGrSMCg==
+length: 4190
 -->

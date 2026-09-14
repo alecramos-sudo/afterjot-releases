@@ -4,11 +4,11 @@ Public downloads and signed Sparkle update feed for Afterjot. Application source
 
 ## Download
 
-[Download Afterjot 0.1.0 (4)](https://github.com/alecramos-sudo/afterjot-releases/releases/download/v0.1.0-4/Afterjot-0.1.0-4.zip)
+[Download Afterjot 0.1.0 (8)](https://github.com/alecramos-sudo/afterjot-releases/releases/download/v0.1.0-8/Afterjot-0.1.0-8.zip)
 
 Requires macOS 14 or later. Supports Apple Silicon and Intel Macs. The app is signed with Developer ID and notarized by Apple. Unzip it and move Afterjot to Applications before opening it.
 
-Build 4 is the previously published release. It does not include the later sidebar, Favorites, ordering, titlebar, or pairing-expiry fixes, which are awaiting a new signed release.
+Build 8 is the current release. It includes the Mac crash-hardening fix for capture shortcut, menu-bar, and workspace window layout traps.
 
 ## Updates
 
